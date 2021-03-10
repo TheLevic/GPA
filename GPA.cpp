@@ -12,13 +12,13 @@ float class3 = 0.0;
 float class4 = 0.0;
 float class5 = 0.0;
 int choice = 0;
-float total_credit_hours; //Need this to calculate GPA per class
+float total_credit_hours; //Need this to calculate GPA for each class
 float credit_hours1 = 0.0; //Need the credit hours to calculate the correct GPA
 float credit_hours2 = 0.0;
 float credit_hours3 = 0.0;
 float credit_hours4 = 0.0;
 float credit_hours5 = 0.0;
-float Gpa_Class1 = 0.0;
+float Gpa_Class1 = 0.0; //Individual GPA for each class
 float Gpa_Class2 = 0.0;
 float Gpa_Class3 = 0.0;
 float Gpa_Class4 = 0.0;
